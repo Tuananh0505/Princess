@@ -1,4 +1,0 @@
-;/*FB_PKG_DELIM*/
-
-__d("BillingClipboardCopy",["Clipboard"],(function(a,b,c,d,e,f,g){"use strict";function a(a){d("Clipboard").copy(a)}g["default"]=a}),98);
-__d("GamingDestinationFalcoEvent",["FalcoLoggerInternal","getFalcoLogPolicy_DO_NOT_USE"],(function(a,b,c,d,e,f,g){"use strict";a=c("getFalcoLogPolicy_DO_NOT_USE")("6203");b=d("FalcoLoggerInternal").create("gaming_destination",a);e=b;g["default"]=e}),98);
